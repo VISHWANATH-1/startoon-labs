@@ -1,39 +1,6 @@
-.header{
-    color: rgb(6, 6, 108);
-    display: flex;
-    justify-content: space-between;
-}
-.input{
-    margin-top: 50px;
-    display: flex;
-    justify-content: space-around;
-    background: skyblue;
-}
-.color{
-    width: 57px;
-    height: 19px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
-}
-
-.graph{
-    display: flex;
-    justify-content: space-around;
-}
-.main{
-    display: grid;
-    grid-template-columns: auto,auto;
-}
-.tablestyle{
-    color: rgb(6, 6, 107);
-    border-spacing: 15px;
-}
-.right{
-    display: block;
-    float: right;
-    width: 200px;
-    padding: 50px;
+.divBox{
+    width: 5px;
+    height: 7px;
+    border: 1px solid grey;
+    padding: 5px;
 }
